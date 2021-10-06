@@ -12,7 +12,7 @@ const Contact = () => {
     <motion.div exit="exit" variants={pageAnim} initial="hidden" animate="show">
       <Testimonial />
       <Price />
-      <Brands />
+      <Brand />
 
       <ScrollTop />
     </motion.div>
