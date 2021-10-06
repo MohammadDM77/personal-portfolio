@@ -13,6 +13,7 @@ const Contact = () => {
       <Testimonial />
       <Price />
       <Brand />
+      <Brand />
 
       <ScrollTop />
     </motion.div>
