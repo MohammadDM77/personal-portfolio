@@ -1,0 +1,32 @@
+@keyframes brandAnim {
+  15% {
+    transform: translateX(-0rem);
+  }
+  20% {
+    transform: translateX(-22.8rem);
+  }
+  35% {
+    transform: translateX(-22.8rem);
+  }
+  40% {
+    transform: translateX(-45.6rem);
+  }
+  55% {
+    transform: translateX(-45.6rem);
+  }
+  60% {
+    transform: translateX(-68.4rem);
+  }
+  75% {
+    transform: translateX(-68.4rem);
+  }
+  80% {
+    transform: translateX(-91.2rem);
+  }
+  95% {
+    transform: translateX(-91.2rem);
+  }
+  100% {
+    transform: translateX(-114rem);
+  }
+}
